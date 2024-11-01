@@ -1,6 +1,7 @@
 import {BrowserRouter, Route, Routes} from 'react-router-dom';
 import Main from './pages/Main';
 import ChatWindow from './pages/ChatWindow';
+import ChatCss from './pages/ChatWindow.css';
 
 function App() {
   return (
